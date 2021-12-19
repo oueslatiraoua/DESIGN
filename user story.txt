@@ -1,0 +1,16 @@
+User:
+
+-Register
+-Log in
+-CRUD own post
+-Comment a post
+-Like a post
+-Put ratings
+-Search for a service/consult posts
+-Apply for service 
+-discuss with the freelancer
+
+Admin:
+
+-Ban posts
+-validate posts
